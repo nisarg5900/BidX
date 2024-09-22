@@ -1,2 +1,2 @@
 # BidX
-Platform to be able to bid for tickets
+Platform to bid for tickets
